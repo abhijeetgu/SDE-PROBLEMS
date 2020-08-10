@@ -1,6 +1,7 @@
 /*
 prob title: Find the duplicate in an array of N+1 integers.
 prob link: https://leetcode.com/problems/find-the-duplicate-number/
+video link : https://www.youtube.com/watch?v=32Ll35mhWg0 
 
 algo used Floyd's Tortoise and Hare. idea taken from linked list slow and fast pointers
 */
